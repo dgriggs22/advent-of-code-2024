@@ -1,6 +1,6 @@
-package main.java.com.griggs.days;
+package main.days;
 
-import main.java.com.griggs.FileByDay;
+import main.FileByDay;
 
 public class One extends FileByDay {
     

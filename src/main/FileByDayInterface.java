@@ -1,4 +1,4 @@
-package main.java.com.griggs;
+package main;
 
 import java.io.File;
 import java.util.function.Consumer;

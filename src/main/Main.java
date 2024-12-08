@@ -1,4 +1,4 @@
-package main.java.com.griggs;
+package main;
 
 public class Main {
 
